@@ -1,0 +1,8 @@
+body{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.purple{
+	background:  linear-gradient(to right, #ee0979, #ff6a00);
+}
